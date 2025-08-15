@@ -1,3 +1,4 @@
+13/07/2025
 problem statement - 1
 write a program to find given number is even or odd
 <img width="879" height="170" alt="image" src="https://github.com/user-attachments/assets/9d5bac7f-7193-4c99-9573-2e415199424e" />
