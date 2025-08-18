@@ -12,3 +12,7 @@ write a program to find largest of 3 numbers
 problem statement - 4
 write a program to find a factorial of a number
 <img width="815" height="250" alt="image" src="https://github.com/user-attachments/assets/0491408b-2147-4481-bb84-3e18152aa255" />
+
+problem statement - 5
+write a program to find area of the triangle
+<img width="1071" height="150" alt="image" src="https://github.com/user-attachments/assets/debe9d4e-f5f2-42ba-acab-0263b2f5597e" />
